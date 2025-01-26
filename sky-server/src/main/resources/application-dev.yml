@@ -6,3 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: 1234
+  alioss:
+    bucket-name: food-serve
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-secret: OZvQF2hdN0cIeYnxeKU7qImTVVz9YT
+    access-key-id: LTAI5t9sCR7o3u2rPgwE4ERT
